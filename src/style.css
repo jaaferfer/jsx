@@ -1,0 +1,26 @@
+.title{
+text-align: center;
+font-size: xx-large;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.red{
+color:red;
+
+}
+.im{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+  width: 50%;
+  border-radius: 50%;  
+}
+.im1{
+    margin-right : 190px;
+}
+.vdo{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+   
+}
